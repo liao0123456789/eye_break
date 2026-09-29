@@ -16,8 +16,6 @@
 - 电脑上没有特别合适的软件
 - 有些软件只能设固定时间，不能循环间隔
 
-既然找不到，就自己写了一个。
-
 ---
 
 ## 功能
@@ -35,23 +33,17 @@
 
 ### 悬浮窗 
 
-
-
+<img width="496" height="383" alt="597be4cb40911c55e13f7e4d832f103c" src="https://github.com/user-attachments/assets/065495a9-fa02-419c-8509-9d9ba02f77d9" />
 
 
 ### 到点提示卡片
 
-
+<img width="381" height="298" alt="18008149a4249c14f1407ac26d26132b" src="https://github.com/user-attachments/assets/dd6841e4-10db-4c03-abe3-4048d3612fe4" />
 
 
 ### 定点闹钟设置
+<img width="271" height="269" alt="0af3c4d6e5abdab5a6a2e92c1fe61375" src="https://github.com/user-attachments/assets/91d5de49-66a7-4441-8890-c44ab9ddcd17" />
 
-
-
-
-### 贴边隐藏
-
-![Uploading image.png…]()
 
 
 ---
