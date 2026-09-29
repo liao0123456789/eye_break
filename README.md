@@ -67,3 +67,9 @@ git clone https://github.com/你的用户名/eye_break.git
 cd eye_break
 pip install -r requirements.txt
 python main.py
+
+
+
+
+
+有新功能要求可在issue里提或者加qq群反馈：1125370541
