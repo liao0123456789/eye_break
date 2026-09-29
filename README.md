@@ -33,21 +33,26 @@
 
 ## 截图
 
-### 悬浮窗 + 悬停按钮
+### 悬浮窗 
 
-![悬浮窗](docs/screenshot-1.png)
+
+
+
 
 ### 到点提示卡片
 
-![提示卡片](docs/screenshot-2.png)
+
+
 
 ### 定点闹钟设置
 
-![定点闹钟](docs/screenshot-3.png)
+
+
 
 ### 贴边隐藏
 
-![贴边隐藏](docs/screenshot-4.png)
+![Uploading image.png…]()
+
 
 ---
 
@@ -63,7 +68,7 @@
 
 ### 方式二：从源码运行
 
-需要 Python 3.9+。
+最好Python 3.10+。
 
 ```bash
 git clone https://github.com/你的用户名/eye_break.git
