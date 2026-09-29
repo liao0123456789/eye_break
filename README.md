@@ -52,7 +52,7 @@
 
 ### 方式一：直接下载 exe
 
-到 [Releases](../../releases) 页面下载最新的 `eye_break.exe`，双击运行。
+到 [Releases](../../releases) 页面下载最新的 `eye_break.zip`，解压后，双击运行exe即可。
 
 > ⚠️ exe 是 PyInstaller 打包的，**没有代码签名**。Windows Defender 或部分杀毒软件可能会提示"未知发布者"甚至误报，点"仍要运行"即可。
 >
